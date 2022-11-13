@@ -22,7 +22,7 @@ jobs:
       - name: Download source
         uses: actions/checkout@v3
       - name: Install libsecp256k1
-        run: sudo apt install libsecp256k1-dev libsecp256k1
+        run: sudo apt install libsecp256k1-dev libsecp256k1-0
       - name: Install Crystal
         uses: crystal-lang/install-crystal@v1
         with:
