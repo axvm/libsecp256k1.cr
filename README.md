@@ -1,6 +1,6 @@
-# libsecp256k1.cr - LibSecp256k1 binding for Crystal lang
+# libsecp256k1.cr [![Crystal CI](https://github.com/axvm/libsecp256k1.cr/actions/workflows/crystal.yml/badge.svg)](https://github.com/axvm/libsecp256k1.cr/actions/workflows/crystal.yml)
 
-This is binding for crystal lang.
+[LibSecp256k1](https://github.com/bitcoin-core/secp256k1) binding for Crystal lang
 
 ## Installation
 
